@@ -22,6 +22,8 @@ This is not really to be used by others but if for some reason you want to use i
 | Add TV Show | POST | localhost:8080/series/ |  | 201 Created |
 | Delete TV Show | DELETE | localhost:8080/series/{id} | id: int | 204 No Content |
 
+## Sample Data
+Sample JSON data to test `Add TV Show` endpoint
 ```json
 {
     "id": 3,
@@ -39,7 +41,7 @@ This is not really to be used by others but if for some reason you want to use i
     ]
 }
 ```
-
+Sample JSON response for `List TV Shows` endpoint
 ```json
 [
   {
