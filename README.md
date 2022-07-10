@@ -10,7 +10,7 @@ I built this project while learning how to build APIs in Golang.
 
 This is not really to be used by others but if for some reason you want to use it then;
 
-1. Clone the repo using this command
+1. Clone the repo using this command `git clone https://github.com/quamejnr/showtime`
 2. Naviagate into the repo and run `go run .` command in the root of the directory.
 
 # Endpoints
